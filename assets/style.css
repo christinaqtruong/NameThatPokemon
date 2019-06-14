@@ -1,0 +1,11 @@
+*{
+    margin: 0 auto;
+    text-align: center;
+}
+#profOaksCard{
+    border: none;
+}
+
+.card-img-top{
+    max-width: fit-content;
+}
